@@ -1,0 +1,11 @@
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/bin/Debug/netcoreapp2.2/GenericsBuilder.deps.json
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/bin/Debug/netcoreapp2.2/GenericsBuilder.runtimeconfig.json
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/bin/Debug/netcoreapp2.2/GenericsBuilder.runtimeconfig.dev.json
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/bin/Debug/netcoreapp2.2/GenericsBuilder.dll
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/bin/Debug/netcoreapp2.2/GenericsBuilder.pdb
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.csprojAssemblyReference.cache
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.AssemblyInfo.cs
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.dll
+/Users/ruviru/Projects/GenericsBuilder/GenericsBuilder/obj/Debug/netcoreapp2.2/GenericsBuilder.pdb
